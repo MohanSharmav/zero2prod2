@@ -5,6 +5,6 @@ application:
 database:
   host: "localhost"
   port: 5432
-  username: "ridhimakhyalappa"
-  password: "ridhima@7557"
-  database_name: "ridhimakhyalappa"
+  username: "mohanvenkatesh"
+  password: "Msvmsd183!"
+  database_name: "newsletter"

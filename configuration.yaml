@@ -1,9 +1,12 @@
 
-application:
+
+  application:
   port: 8000
   host: 127.0.0.1
+  database:
+    host: "localhost"
+    port: 5432
+    username: "mohanvenkatesh"
+    password: "Msvmsd183!"
+    database_name: "newsletter"
 
-database:
-  username: "ridhimakhyalappa"
-  password: "ridhima@7557"
-  database_name: "ridhimakhyalappa"

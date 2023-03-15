@@ -16,9 +16,9 @@ if ! [ -x "$(command -v sqlx)" ]; then
 fi
 
 
-DB_USER=${POSTGRES_USER:=ridhimakhyalappa}
+DB_USER=${POSTGRES_USER:=mohanvenkatesh}
 
-DB_PASSWORD="${POSTGRES_PASSWORD:ridhima@7557}"
+DB_PASSWORD="${POSTGRES_PASSWORD:Msvmsd183!}"
 
 DB_NAME="${POSTGRES_DB:=newsletter}"
 
