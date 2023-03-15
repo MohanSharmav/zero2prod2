@@ -6,7 +6,6 @@ use sqlx::{ Pool, Postgres};
 use std::net::TcpListener;
 use crate::health_check;
 use actix_web::web::Data;
-use sqlx::pool::PoolOptions;
 use tracing_actix_web::TracingLogger;
 
 pub fn run(
